@@ -1,0 +1,116 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Pattaya);
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flex {
+  display: flex;
+}
+.align-center {
+  align-items: center;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.px-2 {
+  padding: 0 1rem;
+}
+.gap-1 {
+  gap: 0.5rem;
+}
+.text-1-5 {
+  font-size: 0.85rem;
+}
+.font-bold {
+  font-weight: bold;
+}
+.list-style-none {
+  list-style: none;
+}
+.gap-3 {
+  gap: 1.5rem;
+}
+.w-40 {
+  width: 40%;
+}
+.none {
+  display: none;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.mb-2 {
+  margin-bottom: 1rem;
+}
+.border-radius-10 {
+  border-radius: 10px;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.pt-7{
+  padding-top: 3.5rem;
+}
+.flex-col{
+  flex-direction: column;
+}
+.r-2{
+  right: 1rem;
+}
+.absolute{
+  position: absolute;
+}
+.b-0{
+  bottom: 0px;
+}
+.m-auto{
+  margin: auto;
+}
+.text-center{
+  text-align: center;
+}
+.italic{
+  font-style: italic;
+}
+.relative{
+  position: relative;
+}
+.my-2{
+  margin: 1rem;
+}
+.mx-auto{
+  margin-left: auto;
+  margin-right: auto;
+}
+.pl-1-5{
+  padding-left: 1.5rem;
+}
+.text-inherit{
+  font-size: inherit;
+}
+.py-10{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.px-10{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.mt-3{
+  margin-top: 2.5rem;
+}
+
+.mt-2{
+  margin-top: 1rem;
+}

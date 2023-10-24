@@ -1,0 +1,21 @@
+.list-card {
+  background-color: black;
+  color: white;
+  width: 20rem;
+  padding: 20px;
+  box-shadow: rgba(10, 10, 10, 0.174) 5px 5px 2.6px;
+  /* font-size: 1rem; */
+}
+
+.list-card:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.list-card .title{
+    font-size: 1rem;
+}
+
+.list-card .url{
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}

@@ -1,0 +1,22 @@
+body{
+    min-height: 100vh;
+    background-image: white;
+    color:black;
+    font-family: Montserrat;
+}
+
+.back-gray{
+  background-image: rgb(158, 158, 158);
+}
+
+.lottie-loader{
+    position: relative;
+    width: 20rem;
+    z-index: -1;
+  }
+  
+  @media (max-width: 1000px){
+    .lottie-loader{
+      width:10rem;
+    }
+  }

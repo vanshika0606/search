@@ -1,0 +1,48 @@
+.card-detail{
+    background-color: rgba(0, 0, 0, 0.922);
+    width: 90%;
+    position: fixed;
+    top: 15%;
+    left: 50%;
+    translate: -50% 0%;
+    padding: 30px 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+.card-detail .cross{
+    position: absolute;
+    right: -10px;
+    top: -10px;
+    background-color: aliceblue;
+    padding: 10px ;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    color: black;
+}
+
+.card-detail .points{
+    margin: 10px 0;
+}
+
+.comments{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    height: 40vh;
+    justify-content: center;
+    margin-top: 20px;
+    overflow: auto;
+    align-items: center;
+}
+
+.comment-card{
+    background-color: rgb(7, 160, 132);
+    width: 15rem;
+    border-radius: 20px;
+    height: 5rem;
+    font-size: 0.7rem;
+    overflow: auto;
+    padding: 10px;
+}
