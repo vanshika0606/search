@@ -3,7 +3,7 @@ import SearchBar from "../../Components/searchBar/SearchBar";
 import { useAppContext } from "../../context/App.context";
 import Loader from "../../Components/loader/Loader";
 import List from "../../Components/list/List";
-import CardDetail from "../../Components/cardDetail/cardDetail";
+import CardDetail from "../../Components/cardDetail/CardDetail";
 // import CheckOutSide from "../../Components/CheckOutside";
 
 const Home = () => {
